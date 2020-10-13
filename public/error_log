@@ -1,0 +1,23 @@
+[18-Aug-2019 07:13:00 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/audan/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[18-Aug-2019 07:13:07 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/audan/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[18-Aug-2019 07:13:32 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/audan/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[18-Aug-2019 07:16:44 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/audan/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[18-Aug-2019 07:16:49 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/audan/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[18-Aug-2019 07:16:55 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/audan/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[18-Aug-2019 07:17:17 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/audan/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[18-Aug-2019 07:23:22 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/audan/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[18-Aug-2019 07:23:29 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/audan/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[18-Aug-2019 07:23:40 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/audan/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[18-Aug-2019 07:23:53 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/audan/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[18-Aug-2019 07:23:56 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/audan/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[18-Aug-2019 07:24:52 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/audan/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[18-Aug-2019 07:24:55 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/audan/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[18-Aug-2019 07:24:56 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/audan/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[18-Aug-2019 07:24:56 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/audan/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[18-Aug-2019 07:25:07 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/audan/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[18-Aug-2019 07:25:14 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/audan/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[18-Aug-2019 07:25:29 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/audan/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[18-Aug-2019 07:25:36 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/audan/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[18-Aug-2019 07:25:42 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/audan/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[18-Aug-2019 07:25:48 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/audan/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[17-Oct-2019 10:09:08 UTC] PHP Fatal error:  Declaration of App\Repositories\News\NewsRepository::all() must be compatible with App\Repositories\News\NewsInterface::all($limit) in /home/audan/public_html/app/Repositories/News/NewsRepository.php on line 7
